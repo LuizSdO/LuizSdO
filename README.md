@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Procurando uma oportunidade mercado de Trabalho
+- 🔭 Procurando uma oportunidade no mercado de Trabalho
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 📫 Contate-me pelo email: luizzfelipe.sdo@gmail.com
 <div align="center">
