@@ -13,7 +13,7 @@
   <img align="center" alt="LuizSdO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LuizSdO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LuizSdO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LuizSdO-SQL" height="30" width="40" src="file:///C:/Users/luiz.oliveira/Downloads/mysql.svg">
+  
  
  
  
